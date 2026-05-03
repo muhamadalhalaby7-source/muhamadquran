@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/3.0x/pexels-gr-stocks-1716147-8522576.jpg
+  branding: assets/images/2.0x/pexels-leyla-155339588-20696910.jpg
+  color_dark: "#121212"
+  image_dark: assets/images/3.0x/pexels-gr-stocks-1716147-8522576.jpg
+  branding_dark: assets/images/2.0x/pexels-leyla-155339588-20696910.jpg
+
+  android_12:
+    image: assets/images/3.0x/pexels-gr-stocks-1716147-8522576.jpg
+    icon_background_color: "#ffffff"
+    image_dark: assets/images/2.0x/pexels-leyla-155339588-20696910.jpg
+    icon_background_color_dark: "#121212"
